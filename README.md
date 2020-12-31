@@ -10,7 +10,7 @@ The semantic segmentation of a brain tumor is of paramount importance for its tr
 ## Dataset
 You can get detailed information regarding dataset from theri official [page](https://www.med.upenn.edu/cbica/brats2020/data.html)
 Figure below shows the two sample cases from the dataset. The BraTS 2018 dataset contains similar training images as that of BraTS 2017. The labeling procedure and classes remain the same. The only difference being made in BraTS 2018 is of the validation dataset. A new validation dataset is made available which carried images collected from 66 patients from unknown grade.
-![alt text](img1.png)
+![alt text](https://github.com/Mr-TalhaIlyas/Brain-Tumor-Segmentation/blob/master/screens/img1.png)
 
 ## Netwrok Architecture
 Overall architecture of the proposed BU-Net including RES blocks and wide context block.
