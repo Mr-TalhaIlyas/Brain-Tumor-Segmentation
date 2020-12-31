@@ -18,7 +18,7 @@ Overall architecture of the proposed BU-Net including RES blocks and wide contex
 The architecture for Residual Extended Skip (RES) block.
 ![alt text](https://github.com/Mr-TalhaIlyas/Brain-Tumor-Segmentation/blob/master/screens/img3.png)
 The architecture for the Wide Context (WC) block.
-![alt text](img4.png)
+![alt text](https://github.com/Mr-TalhaIlyas/Brain-Tumor-Segmentation/blob/master/screens/img4.png)
 
 ## Visual Results
 The qualitative analysis of BU-Net and U-Net. There are 3 colors used to represent three different tumor classes. Red represents necrosis and non-enhancing; green represents edema; and yellow represents an enhancing tumor.
