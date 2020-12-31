@@ -22,5 +22,5 @@ The architecture for the Wide Context (WC) block.
 
 ## Visual Results
 The qualitative analysis of BU-Net and U-Net. There are 3 colors used to represent three different tumor classes. Red represents necrosis and non-enhancing; green represents edema; and yellow represents an enhancing tumor.
-![alt text](img5.png)
+![alt text](https://github.com/Mr-TalhaIlyas/Brain-Tumor-Segmentation/blob/master/screens/img5.png)
 
