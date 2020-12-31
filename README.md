@@ -14,7 +14,7 @@ Figure below shows the two sample cases from the dataset. The BraTS 2018 dataset
 
 ## Netwrok Architecture
 Overall architecture of the proposed BU-Net including RES blocks and wide context block.
-![alt text](img2.png)
+![alt text](https://github.com/Mr-TalhaIlyas/Brain-Tumor-Segmentation/blob/master/screens/img2.png)
 The architecture for Residual Extended Skip (RES) block.
 ![alt text](img3.png)
 The architecture for the Wide Context (WC) block.
