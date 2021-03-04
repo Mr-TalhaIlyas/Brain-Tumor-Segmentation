@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # BU-Net: Brain Tumor Segmentation Using Modified U-Net Architecture
 
 This repo implements the Brain Tumor Segementation Paper published in MDPI journal you can access it [here](https://www.mdpi.com/2079-9292/9/12/2203).
